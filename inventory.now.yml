@@ -1,7 +1,7 @@
 ---
 plugin: servicenow.itsm.now
 table: cmdb_ci_server
-inventory_hostname_source: name
+inventory_hostname_source: https://dev62926.service-now.com/
 ansible_host_source: ip_address
 columns:
 - name
