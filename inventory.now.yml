@@ -1,5 +1,5 @@
 ---
-plugin: servicenow.itsm.now
+plugin: servicenow.servicenow.now
 table: cmdb_ci_server
 inventory_hostname_source: name
 ansible_host_source: ip_address
